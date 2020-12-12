@@ -1,0 +1,29 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+
+.blog-textarea{
+    width: calc(100vw - 200px);
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    height: 150px;
+    font-size: 14px;
+    font-family: serif;
+}
+
+.blog-button{
+    display: block;
+    height: 40px;
+    width: 117px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    position: absolute;
+    left: 46%;
+}
